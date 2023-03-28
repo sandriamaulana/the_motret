@@ -631,6 +631,14 @@ a.rotate-box-2:hover {
 	display: inline-block;
 }
 
+.inline-gallery-container {
+	width: 80%;
+
+
+	height: 10%;
+	padding-bottom: 65%;
+}
+
 .portfolio_menu ul li a {
 	color: #363940;
 	background: transparent;
